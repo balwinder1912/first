@@ -1,0 +1,25 @@
+#header{
+    text-align:center;
+    background-color: lightskyblue;
+    height: 40px;
+}
+#navigation{
+    background-color: graytext;
+    height:50px;
+}
+
+#thecontent{
+    background-color: greenyellow;
+    height:400px;
+}
+#fotter{
+    background-color: purple;
+    height:40px;
+    
+}
+p{
+    text-align: center;
+}
+#sheidan{
+    background-color: cyan;
+}
